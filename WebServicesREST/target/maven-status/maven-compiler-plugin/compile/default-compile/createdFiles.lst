@@ -1,0 +1,6 @@
+com\restful\services\MulticinesRest.class
+com\restful\session\MulticinesFacade.class
+com\restful\entidades\Multicines.class
+com\restful\entidades\Multicines_.class
+com\restful\session\AbstractFacade.class
+com\restful\services\ApplicationConfig.class

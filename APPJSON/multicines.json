@@ -1,0 +1,67 @@
+[
+  {
+    "anioProduccion": "2019-04-22T00:00:00",
+    "calificacion": "10/10",
+    "clasificacion": "+13",
+    "director": "Anthony y Joe Russo",
+    "duracion": "3 Horas",
+    "formato": "4K",
+    "genero": "Ficcion",
+    "id": 1,
+    "idioma": "Español",
+    "resumen": "Pelicula de Superheroes ",
+    "titulo": "Avengers \"End Game\""
+  },
+  {
+    "anioProduccion": "2017-04-12T00:00:00",
+    "calificacion": "10/10",
+    "clasificacion": "+18",
+    "director": "F. Gary Gray",
+    "duracion": "150 Minutos",
+    "formato": "4K",
+    "genero": "Accion",
+    "id": 2,
+    "idioma": "Español",
+    "resumen": "Carros, balas, accion, peleas..",
+    "titulo": "The Fate of the Furious"
+  },
+  {
+    "anioProduccion": "2019-04-11T00:00:00",
+    "calificacion": "8/10",
+    "clasificacion": "+18",
+    "director": "Jenny Gage",
+    "duracion": "110 Minutos",
+    "formato": "4K",
+    "genero": "Drama Romantico",
+    "id": 3,
+    "idioma": "Español",
+    "resumen": "Romance, peleas, amor, xxx",
+    "titulo": "After: Aquí empieza todo"
+  },
+  {
+    "anioProduccion": "2018-07-04T00:00:00",
+    "calificacion": "10/10",
+    "clasificacion": "+18",
+    "director": "Gerard McMurray",
+    "duracion": "120 Minutos",
+    "formato": "4K",
+    "genero": "Terror",
+    "id": 4,
+    "idioma": "Español",
+    "resumen": "Muerte, balas, accion, guerra...",
+    "titulo": "The First Purge"
+  },
+  {
+    "anioProduccion": "2020-07-16T00:00:00",
+    "calificacion": "8/10",
+    "clasificacion": "+15",
+    "director": "Vince Marcello",
+    "duracion": "130 Minutos",
+    "formato": "4K",
+    "genero": "Drama Romantico",
+    "id": 5,
+    "idioma": "Español",
+    "resumen": "Romance, Besos, Amor, Cariño.....",
+    "titulo": "El Stand De Los Besos 2"
+  }
+]
